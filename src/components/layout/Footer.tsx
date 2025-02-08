@@ -17,12 +17,12 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2">
               <li><a href="/" className="text-gray-400 hover:text-white">Home</a></li>
-              <li><a href="/sri-lankan-spices" className="text-gray-400 hover:text-white">Sri Lankan Spices</a></li>
-              <li><a href="/about" className="text-gray-400 hover:text-white">About Us</a></li>
-              <li><a href="/products" className="text-gray-400 hover:text-white">Our Products</a></li>
-              <li><a href="/contact" className="text-gray-400 hover:text-white">Contact Us</a></li>
-              <li><a href="/faq" className="text-gray-400 hover:text-white">FAQ</a></li>
-              <li><a href="/international-return-and-refund-policy" className="text-gray-400 hover:text-white">International Return & Refund Policy</a></li>
+              <li><a href="/#/sri-lankan-spices" className="text-gray-400 hover:text-white">Sri Lankan Spices</a></li>
+              <li><a href="/#/about" className="text-gray-400 hover:text-white">About Us</a></li>
+              <li><a href="/#/products" className="text-gray-400 hover:text-white">Our Products</a></li>
+              <li><a href="/#/contact" className="text-gray-400 hover:text-white">Contact Us</a></li>
+              <li><a href="/#/faq" className="text-gray-400 hover:text-white">FAQ</a></li>
+              <li><a href="/#/international-return-and-refund-policy" className="text-gray-400 hover:text-white">International Return & Refund Policy</a></li>
             </ul>
           </div>
           
