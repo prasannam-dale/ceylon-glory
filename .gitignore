@@ -2,4 +2,3 @@ node_modules
 package.json
 .idea
 .DS_Store
-dist
